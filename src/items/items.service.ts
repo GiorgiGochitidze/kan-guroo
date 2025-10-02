@@ -73,6 +73,7 @@ export class ItemsService {
     if (!createdAfter && !createdBefore) return {};
     const createdAt: DateFilter = {};
     if (createdAfter) createdAt.$gte = new Date(createdAfter);
-    if (createdBefore) createdAt.$gte = new Date(createdBefore);
+    if (createdBefore) createdAt.$lte = new Date(createdBefore);
+    return { createdAt };
   }
 }
