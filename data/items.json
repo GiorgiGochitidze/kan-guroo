@@ -1,0 +1,636 @@
+[{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5413"
+  },
+  "name": "phone X1",
+  "category": "electronics",
+  "status": "active",
+  "price": 300,
+  "createdAt": {
+    "$date": "2025-01-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5414"
+  },
+  "name": "phone Y2",
+  "category": "electronics",
+  "status": "active",
+  "price": 450,
+  "createdAt": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5415"
+  },
+  "name": "laptop Z3",
+  "category": "electronics",
+  "status": "inactive",
+  "price": 800,
+  "createdAt": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5416"
+  },
+  "name": "speaker 1",
+  "category": "toys",
+  "status": "inactive",
+  "price": 269,
+  "createdAt": {
+    "$date": "2025-08-05T03:28:00.535Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5417"
+  },
+  "name": "speaker 2",
+  "category": "books",
+  "status": "inactive",
+  "price": 269,
+  "createdAt": {
+    "$date": "2025-02-09T06:18:59.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5418"
+  },
+  "name": "phone 3",
+  "category": "clothing",
+  "status": "active",
+  "price": 558,
+  "createdAt": {
+    "$date": "2025-05-03T15:55:19.081Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5419"
+  },
+  "name": "tablet 4",
+  "category": "books",
+  "status": "inactive",
+  "price": 140,
+  "createdAt": {
+    "$date": "2025-06-04T07:42:39.043Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc541a"
+  },
+  "name": "toy 5",
+  "category": "toys",
+  "status": "active",
+  "price": 272,
+  "createdAt": {
+    "$date": "2025-01-22T01:19:16.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc541b"
+  },
+  "name": "camera 6",
+  "category": "home",
+  "status": "active",
+  "price": 627,
+  "createdAt": {
+    "$date": "2025-05-29T04:42:01.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc541c"
+  },
+  "name": "camera 7",
+  "category": "books",
+  "status": "active",
+  "price": 897,
+  "createdAt": {
+    "$date": "2025-02-16T04:38:01.117Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc541d"
+  },
+  "name": "toy 8",
+  "category": "toys",
+  "status": "inactive",
+  "price": 315,
+  "createdAt": {
+    "$date": "2025-05-03T14:00:02.109Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc541e"
+  },
+  "name": "phone 9",
+  "category": "electronics",
+  "status": "active",
+  "price": 899,
+  "createdAt": {
+    "$date": "2025-06-17T22:13:53.992Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc541f"
+  },
+  "name": "speaker 10",
+  "category": "books",
+  "status": "active",
+  "price": 318,
+  "createdAt": {
+    "$date": "2025-06-01T09:20:38.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5420"
+  },
+  "name": "toy 11",
+  "category": "toys",
+  "status": "inactive",
+  "price": 113,
+  "createdAt": {
+    "$date": "2025-09-26T17:42:06.730Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5421"
+  },
+  "name": "laptop 12",
+  "category": "home",
+  "status": "inactive",
+  "price": 176,
+  "createdAt": {
+    "$date": "2025-09-22T23:04:59.527Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5422"
+  },
+  "name": "tablet 13",
+  "category": "books",
+  "status": "inactive",
+  "price": 829,
+  "createdAt": {
+    "$date": "2025-06-10T16:42:33.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5423"
+  },
+  "name": "tablet 14",
+  "category": "toys",
+  "status": "active",
+  "price": 567,
+  "createdAt": {
+    "$date": "2025-08-23T04:00:26.215Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5424"
+  },
+  "name": "laptop 15",
+  "category": "books",
+  "status": "inactive",
+  "price": 985,
+  "createdAt": {
+    "$date": "2025-02-28T08:03:55.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5425"
+  },
+  "name": "shirt 16",
+  "category": "home",
+  "status": "inactive",
+  "price": 955,
+  "createdAt": {
+    "$date": "2025-04-22T05:06:35.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5426"
+  },
+  "name": "book 17",
+  "category": "electronics",
+  "status": "inactive",
+  "price": 691,
+  "createdAt": {
+    "$date": "2025-08-16T11:34:58.536Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5427"
+  },
+  "name": "camera 18",
+  "category": "electronics",
+  "status": "active",
+  "price": 654,
+  "createdAt": {
+    "$date": "2025-02-28T23:10:55.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5428"
+  },
+  "name": "tablet 19",
+  "category": "toys",
+  "status": "inactive",
+  "price": 543,
+  "createdAt": {
+    "$date": "2025-03-12T22:45:01.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5429"
+  },
+  "name": "camera 20",
+  "category": "clothing",
+  "status": "inactive",
+  "price": 772,
+  "createdAt": {
+    "$date": "2025-04-02T12:13:09.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc542a"
+  },
+  "name": "laptop 21",
+  "category": "electronics",
+  "status": "active",
+  "price": 204,
+  "createdAt": {
+    "$date": "2025-02-09T10:12:03.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc542b"
+  },
+  "name": "shirt 22",
+  "category": "clothing",
+  "status": "inactive",
+  "price": 977,
+  "createdAt": {
+    "$date": "2025-09-27T02:47:56.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc542c"
+  },
+  "name": "speaker 23",
+  "category": "books",
+  "status": "inactive",
+  "price": 112,
+  "createdAt": {
+    "$date": "2025-03-02T10:13:52.104Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc542d"
+  },
+  "name": "tablet 24",
+  "category": "clothing",
+  "status": "active",
+  "price": 562,
+  "createdAt": {
+    "$date": "2025-02-19T03:29:19.497Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc542e"
+  },
+  "name": "speaker 25",
+  "category": "home",
+  "status": "inactive",
+  "price": 231,
+  "createdAt": {
+    "$date": "2025-02-21T20:45:36.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc542f"
+  },
+  "name": "tablet 26",
+  "category": "clothing",
+  "status": "inactive",
+  "price": 195,
+  "createdAt": {
+    "$date": "2025-03-08T05:55:45.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5430"
+  },
+  "name": "camera 27",
+  "category": "books",
+  "status": "active",
+  "price": 924,
+  "createdAt": {
+    "$date": "2025-08-22T10:02:06.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5431"
+  },
+  "name": "speaker 28",
+  "category": "home",
+  "status": "inactive",
+  "price": 469,
+  "createdAt": {
+    "$date": "2025-05-17T00:57:34.505Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5432"
+  },
+  "name": "tablet 29",
+  "category": "books",
+  "status": "inactive",
+  "price": 942,
+  "createdAt": {
+    "$date": "2025-06-22T06:36:15.928Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5433"
+  },
+  "name": "tablet 30",
+  "category": "electronics",
+  "status": "active",
+  "price": 627,
+  "createdAt": {
+    "$date": "2025-05-04T12:51:33.562Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5434"
+  },
+  "name": "shirt 31",
+  "category": "home",
+  "status": "active",
+  "price": 63,
+  "createdAt": {
+    "$date": "2025-01-14T00:17:18.251Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5435"
+  },
+  "name": "tablet 32",
+  "category": "electronics",
+  "status": "inactive",
+  "price": 394,
+  "createdAt": {
+    "$date": "2025-06-22T04:16:45.979Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5436"
+  },
+  "name": "laptop 33",
+  "category": "toys",
+  "status": "active",
+  "price": 76,
+  "createdAt": {
+    "$date": "2025-03-12T07:37:53.553Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5437"
+  },
+  "name": "toy 34",
+  "category": "books",
+  "status": "active",
+  "price": 553,
+  "createdAt": {
+    "$date": "2025-03-15T23:48:30.108Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5438"
+  },
+  "name": "camera 35",
+  "category": "electronics",
+  "status": "inactive",
+  "price": 178,
+  "createdAt": {
+    "$date": "2025-04-22T03:44:36.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5439"
+  },
+  "name": "shirt 36",
+  "category": "electronics",
+  "status": "active",
+  "price": 969,
+  "createdAt": {
+    "$date": "2025-06-11T20:16:44.789Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc543a"
+  },
+  "name": "tablet 37",
+  "category": "books",
+  "status": "active",
+  "price": 272,
+  "createdAt": {
+    "$date": "2025-08-08T21:09:17.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc543b"
+  },
+  "name": "laptop 38",
+  "category": "home",
+  "status": "active",
+  "price": 823,
+  "createdAt": {
+    "$date": "2025-05-27T09:18:26.637Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc543c"
+  },
+  "name": "shirt 39",
+  "category": "books",
+  "status": "active",
+  "price": 968,
+  "createdAt": {
+    "$date": "2025-09-29T22:50:10.441Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc543d"
+  },
+  "name": "speaker 40",
+  "category": "electronics",
+  "status": "inactive",
+  "price": 402,
+  "createdAt": {
+    "$date": "2025-03-22T21:44:00.084Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc543e"
+  },
+  "name": "laptop 41",
+  "category": "clothing",
+  "status": "active",
+  "price": 926,
+  "createdAt": {
+    "$date": "2025-03-01T14:08:32.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc543f"
+  },
+  "name": "laptop 42",
+  "category": "electronics",
+  "status": "inactive",
+  "price": 609,
+  "createdAt": {
+    "$date": "2025-02-15T22:21:45.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5440"
+  },
+  "name": "laptop 43",
+  "category": "toys",
+  "status": "active",
+  "price": 276,
+  "createdAt": {
+    "$date": "2025-03-19T04:41:37.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5441"
+  },
+  "name": "book 44",
+  "category": "books",
+  "status": "inactive",
+  "price": 522,
+  "createdAt": {
+    "$date": "2025-02-26T19:34:15.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5442"
+  },
+  "name": "book 45",
+  "category": "clothing",
+  "status": "active",
+  "price": 441,
+  "createdAt": {
+    "$date": "2025-07-23T09:08:43.253Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5443"
+  },
+  "name": "shirt 46",
+  "category": "books",
+  "status": "inactive",
+  "price": 707,
+  "createdAt": {
+    "$date": "2025-05-12T10:34:41.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5444"
+  },
+  "name": "camera 47",
+  "category": "clothing",
+  "status": "inactive",
+  "price": 957,
+  "createdAt": {
+    "$date": "2025-05-04T22:09:13.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5445"
+  },
+  "name": "toy 48",
+  "category": "home",
+  "status": "inactive",
+  "price": 107,
+  "createdAt": {
+    "$date": "2025-06-03T15:14:28.736Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5446"
+  },
+  "name": "book 49",
+  "category": "books",
+  "status": "active",
+  "price": 650,
+  "createdAt": {
+    "$date": "2025-08-05T08:46:31.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dea84b0e3cbfe0dafc5447"
+  },
+  "name": "tablet 50",
+  "category": "books",
+  "status": "inactive",
+  "price": 754,
+  "createdAt": {
+    "$date": "2025-09-08T15:51:59.073Z"
+  }
+}]
